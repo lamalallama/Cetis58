@@ -77,7 +77,3 @@ int num2 = int.Parse(Console.ReadLine());
 sum = num1 + num2;
 Console.WriteLine("Sum: " + sum);
 ```
-
-Remember to handle exceptions when parsing user input to ensure the program doesn't crash if the input is not a valid number.
-
-These are some common ways to sum numbers in C#. Choose the method that best fits your specific use case and data structure.
